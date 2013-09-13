@@ -1,4 +1,4 @@
 Sublime-CSV
 ===========
 
-This is for fiddeling with CSV fiels in sublime
+This is for fiddeling with CSV files in sublime
