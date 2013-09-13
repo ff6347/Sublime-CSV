@@ -1,0 +1,7 @@
+{ "name": "CSV",
+  "scopeName": "source.csv",
+  "fileTypes": ["csv","tsv"],
+  "patterns": [
+  ],
+  "uuid": "409757ec-d187-4307-a0b9-25097d13494b"
+}
